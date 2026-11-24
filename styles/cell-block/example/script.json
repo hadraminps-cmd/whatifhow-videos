@@ -1,0 +1,26 @@
+{
+  "title": "The Men Who Left Their Heads In Bed",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lead": 0.3,
+  "outro": 1.2,
+  "gap": 0.18,
+  "music": "bounce",
+  "sources": [
+    "FBI, 'Alcatraz Escape' (famous cases): on June 12, 1962 John Anglin, Clarence Anglin and Frank Morris were missing; dummy heads of plaster, flesh-tone paint and real human hair in their beds fooled the night guards; raft of more than 50 raincoats",
+    "History.com, 'Escape From Alcatraz: June 11, 1962': months digging through cell air vents with sharpened spoons from the cafeteria; dummy heads of paper, soap and human hair from the prison barbershop; raft and life preservers from more than 50 raincoats",
+    "Britannica, 'Alcatraz escape of June 1962': night of June 11, 1962; the men were never found"
+  ],
+  "lines": [
+    { "text": "In 1962, three men broke out of Alcatraz," },
+    { "text": "and left their own heads in bed." },
+    { "text": "See, for months, they dug through the vents in their cells," },
+    { "text": "with spoons stolen from the canteen." },
+    { "text": "Every night, the guards counted fake heads" },
+    { "text": "made of soap, paper and real hair." },
+    { "text": "Then they glued fifty raincoats into a raft,", "caps": "Then they | glued | 50 | raincoats | into a | raft," },
+    { "text": "and paddled into the dark." },
+    { "text": "The guards found the heads the next morning." },
+    { "text": "The men were never seen again.", "gap": 0.3 }
+  ]
+}

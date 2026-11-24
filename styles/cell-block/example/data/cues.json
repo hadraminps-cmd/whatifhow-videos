@@ -1,0 +1,175 @@
+{
+ "duration": 29.23,
+ "cues": [
+  {
+   "t": 0.05,
+   "type": "whoosh",
+   "gain": 0.6
+  },
+  {
+   "t": 0.535,
+   "type": "ding",
+   "gain": 0.6
+  },
+  {
+   "t": 1.716,
+   "type": "boing",
+   "gain": 0.5
+  },
+  {
+   "t": 3.461,
+   "type": "whoosh",
+   "gain": 0.5
+  },
+  {
+   "t": 4.922,
+   "type": "pop",
+   "gain": 0.8
+  },
+  {
+   "t": 6.022,
+   "type": "whoosh",
+   "gain": 0.6
+  },
+  {
+   "t": 7.726,
+   "type": "tock",
+   "gain": 0.5
+  },
+  {
+   "t": 8.006,
+   "type": "tock",
+   "gain": 0.5
+  },
+  {
+   "t": 8.286,
+   "type": "tock",
+   "gain": 0.5
+  },
+  {
+   "t": 8.566,
+   "type": "tock",
+   "gain": 0.5
+  },
+  {
+   "t": 8.769,
+   "type": "thud",
+   "gain": 0.6
+  },
+  {
+   "t": 10.424,
+   "type": "whoosh",
+   "gain": 0.6
+  },
+  {
+   "t": 11.364,
+   "type": "zip",
+   "gain": 0.6
+  },
+  {
+   "t": 12.644,
+   "type": "whoosh",
+   "gain": 0.5
+  },
+  {
+   "t": 14.18,
+   "type": "pop",
+   "gain": 0.6
+  },
+  {
+   "t": 14.53,
+   "type": "pop",
+   "gain": 0.6
+  },
+  {
+   "t": 14.88,
+   "type": "pop",
+   "gain": 0.6
+  },
+  {
+   "t": 15.365,
+   "type": "whoosh",
+   "gain": 0.5
+  },
+  {
+   "t": 16.027,
+   "type": "plop",
+   "gain": 0.7
+  },
+  {
+   "t": 16.543,
+   "type": "plop",
+   "gain": 0.7
+  },
+  {
+   "t": 17.61,
+   "type": "plop",
+   "gain": 0.7
+  },
+  {
+   "t": 18.086,
+   "type": "whoosh",
+   "gain": 0.6
+  },
+  {
+   "t": 19.507,
+   "type": "pop",
+   "gain": 0.7
+  },
+  {
+   "t": 20.452,
+   "type": "boing",
+   "gain": 0.7
+  },
+  {
+   "t": 21.147,
+   "type": "whoosh",
+   "gain": 0.6
+  },
+  {
+   "t": 21.447,
+   "type": "plop",
+   "gain": 0.25
+  },
+  {
+   "t": 22.047,
+   "type": "plop",
+   "gain": 0.25
+  },
+  {
+   "t": 22.647,
+   "type": "plop",
+   "gain": 0.25
+  },
+  {
+   "t": 23.028,
+   "type": "whoosh",
+   "gain": 0.6
+  },
+  {
+   "t": 23.768,
+   "type": "zip",
+   "gain": 0.6
+  },
+  {
+   "t": 24.4,
+   "type": "slam",
+   "gain": 0.7
+  },
+  {
+   "t": 25.929,
+   "type": "whoosh",
+   "gain": 0.5
+  },
+  {
+   "t": 27.005,
+   "type": "stamp",
+   "gain": 1
+  },
+  {
+   "t": 27.025,
+   "type": "slam",
+   "gain": 0.6
+  }
+ ]
+}

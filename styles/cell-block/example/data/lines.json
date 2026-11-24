@@ -1,0 +1,66 @@
+{
+ "duration": 29.23,
+ "estimated": true,
+ "lines": [
+  {
+   "i": 0,
+   "text": "In 1962, three men broke out of Alcatraz,",
+   "start": 0.3,
+   "end": 3.341
+  },
+  {
+   "i": 1,
+   "text": "and left their own heads in bed.",
+   "start": 3.521,
+   "end": 5.902
+  },
+  {
+   "i": 2,
+   "text": "See, for months, they dug through the vents in their cells,",
+   "start": 6.082,
+   "end": 10.304
+  },
+  {
+   "i": 3,
+   "text": "with spoons stolen from the canteen.",
+   "start": 10.484,
+   "end": 12.524
+  },
+  {
+   "i": 4,
+   "text": "Every night, the guards counted fake heads",
+   "start": 12.704,
+   "end": 15.245
+  },
+  {
+   "i": 5,
+   "text": "made of soap, paper and real hair.",
+   "start": 15.425,
+   "end": 17.966
+  },
+  {
+   "i": 6,
+   "text": "Then they glued fifty raincoats into a raft,",
+   "start": 18.146,
+   "end": 21.027
+  },
+  {
+   "i": 7,
+   "text": "and paddled into the dark.",
+   "start": 21.207,
+   "end": 22.908
+  },
+  {
+   "i": 8,
+   "text": "The guards found the heads the next morning.",
+   "start": 23.088,
+   "end": 25.809
+  },
+  {
+   "i": 9,
+   "text": "The men were never seen again.",
+   "start": 25.989,
+   "end": 28.03
+  }
+ ]
+}
