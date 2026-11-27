@@ -12,6 +12,7 @@ Read by every scheduled run before picking a topic; each run adds its row after 
 2026-11-24 | How Big Is The GTA 6 Map? | cell-block (made in chat, gaming) | H659ba5A0U0
 2026-11-25 | What If You Texted a Spacecraft 16 Billion Miles Away? (Voyager 1 one light-day) | deep-dive | z19VA0pJzx0
 2026-11-26 | What If The Ice Cracks Under You? (fall through a frozen lake, 1-10-1 rule) | cel-shaded | D23eJQM1_a4
+2026-11-27 | What If a Rip Current Grabs You? 🌊 #shorts (rip current escape, flip float follow, twist: someone swims into the gap) | cel-shaded | GmQgKlRCVNU
 
 ## IDEAS NOT YET USED (story/thriller angles fit best)
 - swallowed by a whale (2021 humpback/lobster diver)
@@ -24,6 +25,7 @@ Read by every scheduled run before picking a topic; each run adds its row after 
 - lost in a cave as the water rises
 - a famous prison escape
 - an unsolved disappearance with no victims shown
-- caught in a rip current
 - lost in a whiteout blizzard
+- stuck in quicksand (you float; how to get out)
+- lost at sea on a life raft at night
 - how mosquito bites / hiccups / brain freeze / fighting a cold (only if told as a tense story)
