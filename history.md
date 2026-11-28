@@ -13,12 +13,12 @@ Read by every scheduled run before picking a topic; each run adds its row after 
 2026-11-25 | What If You Texted a Spacecraft 16 Billion Miles Away? (Voyager 1 one light-day) | deep-dive | z19VA0pJzx0
 2026-11-26 | What If The Ice Cracks Under You? (fall through a frozen lake, 1-10-1 rule) | cel-shaded | D23eJQM1_a4
 2026-11-27 | What If a Rip Current Grabs You? 🌊 #shorts (rip current escape, flip float follow, twist: someone swims into the gap) | cel-shaded | GmQgKlRCVNU
+2026-11-28 | What If Your Car Sinks With You Inside? 🚗 #shorts (sinking car escape: seatbelt, window, out; twist: five seconds slower and you'd still be inside) | cel-shaded | -WReKsYdQHU
 
 ## IDEAS NOT YET USED (story/thriller angles fit best)
 - swallowed by a whale (2021 humpback/lobster diver)
 - lift/elevator cable snaps
 - struck by lightning
-- car falls into water
 - what if you stopped sleeping
 - what if Hubble falls to Earth (NASA reboost RFI, Nov 2026)
 - trapped in a sinking submarine
@@ -29,3 +29,4 @@ Read by every scheduled run before picking a topic; each run adds its row after 
 - stuck in quicksand (you float; how to get out)
 - lost at sea on a life raft at night
 - how mosquito bites / hiccups / brain freeze / fighting a cold (only if told as a tense story)
+- trapped in an elevator during a blackout (what really happens, calm facts)
